@@ -53,6 +53,7 @@ Fulltime Employees have highest average income compare to other types where as u
 Business Decision  
 Increase the number loan and offer better loan terms to full time employees.  
 ##### Average Loan by Age Group  
+Key Insight
 Adults and Middle aged borrowers take highest average loans.  
 Business Decision  
 Keep increasing the number of loans for Adults and middle aged age group while limit the number for senior citizen age group to decrease risk.  
