@@ -58,7 +58,7 @@ Business Decision
 Keep increasing the number of loans for Adults and middle aged age group while limit the number for senior citizen age group to decrease risk.  
 ##### Default Rate(%) By Year  
 Key Insight  
-Default rates were between 11.50 and 11.75 in 6 years starting from 2013.
+Default rates were between 11.50 and 11.75 in 6 years starting from 2013.  
 Business Decision  
 Maintain the default rate under 11.50 to increase the profit from last 6 year.  
 ##### Default by Employeement Type  
