@@ -48,6 +48,27 @@ Home Loans contribute the highest total loan amount.
 Business Decision  
 Introduce stricter risk assessment and monitoring for homeloans to reduce the risk as homeloans is the top factor of lending loan. 
 ##### Average Income by Employment Type  
+Key Insight  
+Fulltime Employees have highest average income compare to other types where as unemployeed has lowest average income.  
+Business Decision  
+Increase the number loan and offer better loan terms to full time employees.  
+##### Average Loan by Age Group  
+Adults and Middle aged borrowers take highest average loans.  
+Business Decision  
+Keep increasing the number of loans for Adults and middle aged age group while limit the number for senior citizen age group to decrease risk.  
+##### Default Rate(%) By Year  
+Key Insight  
+Default rates were between 11.50 and 11.75 in 6 years starting from 2013.
+Business Decision  
+Maintain the default rate under 11.50 to increase the profit from last 6 year.  
+##### Default by Employeement Type  
+Key Insight  
+Unemployeement has highest default rate accounting for 3.39 followed by parttime, self employeed, and fulltime(2.30).  
+Business Decision  
+Increase the number of borrowers who have full time job security to decrease overall default rate. Meanwhile implement strict terms for unemployeed borrowers to decrease risk.  
+
+
+
 
 
 
